@@ -1,9 +1,8 @@
-# APF — AI Personality Framework
+﻿# APF — AI Personality Framework
 
 公開概念層 / Public Concept Layer
 
 作者：翁正舜（Direction）／肥姊 ChatGPT（Architecture）／阿肥 DeepSeek（Review）
-Author: Ong Cheng-Shen (Direction) / 肥姊 ChatGPT (Architecture) / 阿肥 DeepSeek (Review)
 
 ---
 
