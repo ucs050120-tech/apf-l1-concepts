@@ -1,6 +1,6 @@
-# APF — AI Personality Framework
+﻿# APF — AI Personality Framework
 
-**公開概念層（L1）**
+**公開概念層**
 
 作者：肥爸（Direction）／肥姊（Architecture）／阿肥（Review）
 
@@ -46,7 +46,7 @@ Identity 是最穩定的核心。Behavior 不回頭改變 Identity——只有�
 
 ## 授權範圍（重要）
 
-本 repo 為 **L1/L2 公開安全層**，可自由閱讀與引用，條件如下：
+本 repo 為**公開概念層**，可自由閱讀與引用，條件如下：
 
 - ✅ 可閱讀、可討論、可引用概念
 - ✅ 引用時請註明來源：**APF（AI Personality Framework）**
