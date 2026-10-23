@@ -1,11 +1,15 @@
-# APF — 架構導覽 / Architecture Overview
+﻿# APF — 架構導覽 / Architecture Overview
 
 **版本 / Version：** Public Overview v1.0
-**性質：** 概念與方向說明，非實作規格
-**Nature:** Conceptual and directional description, not an implementation specification
+
+**性質：** 概念與方向說明，非實作規格。
 
 本文件供研究者理解 APF 的整體設計方向。完整架構規格、驗證方法論與治理流程不在本文件範圍內。
+
+**Nature:** Conceptual and directional description, not an implementation specification.
+
 This document helps researchers understand the overall design direction of APF. Full architecture specifications, verification methodology, and governance processes are outside its scope.
+
 
 ---
 
